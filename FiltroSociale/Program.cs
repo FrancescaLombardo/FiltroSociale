@@ -58,7 +58,7 @@ namespace FiltroSociale
 
 #if ESEGUI_FILTRO_QRCODE
             //------------------------------------ FASE1: Filtraggio livelli QRCODE
-            //leggi le tabelle settings per i QRCODE 
+            //leggi le tabelle settings per i QRCODE   
             //determina le stazioni di misure correlate spazialmente -> array idrometri correlabili
             //determina i QRCODE correlati spazialmente -> array qrcode correlabili
             Console.WriteLine("Inizio Filtraggio misure QRCODE");
